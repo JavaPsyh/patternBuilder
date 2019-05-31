@@ -6,7 +6,6 @@ class ComputerBuilder {
     private String systembox;
     private String manipulator;
 
-
     public String getMonitor() {
         return monitor;
     }
